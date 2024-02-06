@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+
+# kizma generated files
+public
+server.cjs

@@ -1,0 +1,14 @@
+{
+  "name": "kizma-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "kizma"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "kizma": "^0.0.2"
+  }
+}
