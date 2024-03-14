@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "kizma"
+    "build": "kizma -f"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "kizma": "^0.0.2"
+    "@types/node": "^20.11.27",
+    "kizma": "^0.0.5"
   }
 }
